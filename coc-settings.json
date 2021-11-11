@@ -1,0 +1,11 @@
+{
+  "diagnostic.errorSign": "",
+  "diagnostic.warningSign": "",
+  "diagnostic.infoSign": "",
+  "python.linting.pylintArgs": ["--rcfile", "~/.pylintrc", "-d", "C0411"],
+  "python.jediEnabled": false,
+  "python.linting.pylintPath": "/Users/olegbezhenar/.pyenv/shims/python",
+  "coc.preferences.formatOnSave": true,
+  "coc.preferences.formatOnSaveFiletypes": ["css", "markdown", "python"],
+  "eslint.autoFixOnSave": true,
+}
